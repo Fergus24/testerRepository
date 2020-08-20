@@ -1,0 +1,107 @@
+Dragonborn glimmerfolk Wizard, focused specialist: transmuter
+
+Abilities
+
+9
+14
+17 (18)
+18
+15
+11
+
+HP:	Between 28 and 40
+
+
+Skills
+Concentration
+Craft		- 	Painting
+Craft		-	Alchemy
+Knowledge	-	Arcane
+Knowledge	-	Architecture
+Spellcraft
+
+Feats
+
+1. Bind Vestige
+1. Scribe scroll.
+3. Reserves of strength
+B. Iron will				Otyugh Hole
+5. Invisible spell 
+
+
+Spells:
+Banned schools: Necromancy, Enchantment, Evocation
+																					Wanted
+Spellbook: 	all Cantrips	:	All
+		9 level 1	:	Silent image, mage armour, True strike, Nerveskitter, Featherfall, Hoard gullet, nightshield, spellflower, +1
+		4 level 2	:	Mirror image, Heroics, Alter self, Scintillating scales										Balor nimbus, see invisibility, suffer the flesh, Augment famliar			
+		2 level 3	:	Shrink item, Haste														Evard's menacing tentacles, Enhance famliar
+
+Cantrips
+Prestidigitation
+Prestidigitation
+Prestidigitation
+
+Mending
+Message
+Message
+
+1st
+Silent image
+True strike
+True strike
+
+Nerveskitter
+Featherfall
+Hoard Gullet 
+
+2nd
+Mirror image
+Heroics
+
+Invisible alter self (Caster level 8, lasts 3 times as long because of Rainbow falls)
+Invisible alter self
+Invisible alter self
+
+3rd
+Shrink item
+
+Haste	
+Haste
+Shrink item
+	
+
+
+Items: 	
+Otyugh Hole				2000 gp
+Rainbow falls				2000 gp
+Amulet of health +1			1000 gp
+Rod of extend spell			3000 gp
+Scrolls:	Detect magic (2)	25 gp
+		Read magic (2)		25 gp
+		Enlarge person (4)	100 gp
+Large heavy crossbow			100 gp
+	Large bayonet			10 gp
+Light crossbow				35 gp
+20 large bolts 	 			2 gp
+20 medium bolts 			2 gp
+Large quiver + compost			1 gp
+Medium quiver + compost			1 gp			8951 gp spent, 699 gp remaining
+
+
+Wanted: White raven crown, desert wind cloak, etc	
+
+Other idea: Suffer the flesh, Bind vestige + Improved bind vestige + anima mage
+
+		Form			Natural armour		Size	Movement			Attacks				Spells	Other
+
+		Air Mephit 	- 	3 		 	S	60ft fly (perfect), 		2 claws 1d3 			Y
+		Skeroloth 	-	6		 	S	40ft burrow & 20ft climb 	4 claws 1d3			N	+4 stealth, +8 climb
+		Juvenile Tojanida 	10			M	Swim 60ft			Bite (2d6), 2 Claws (1d4), 	N	Improved Grab*, +8 Swim, +4 Perception and Search, All Around Vision		
+Standard	Dwarf ancestor		18			L	20ft								Y	-
+
+Forms for familiar:
+		Pegasus			+3			L	60ft, 120ft fly (average)	2 hooves, bite			NA	+4 perception
+		Ankheg			+9			L	30ft, 20ft burrow		Bite				NA	
+		Arane			+2			M	50ft, 25ft climb		Bite	
+		Hippocampus		+3			L	50ft swim			Tail slap, bite				+8 swim
