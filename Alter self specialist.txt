@@ -91,7 +91,7 @@ Medium quiver + compost			1 gp			8951 gp spent, 699 gp remaining
 
 Wanted: White raven crown, desert wind cloak, etc	
 
-Other idea: Suffer the flesh, Bind vestige + Improved bind vestige + anima mage
+Other idea: Suffer the flesh, Bind vestige + Improved bind vestige + anima mage			This is highly rules questionable though
 
 		Form			Natural armour		Size	Movement			Attacks				Spells	Other
 
